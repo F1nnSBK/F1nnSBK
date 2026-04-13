@@ -1,4 +1,4 @@
-## ⚡︎ Finn | Applied Scientist & Data Architect
+## ⚡︎ Finn | Applied Data Scientist
   
 
 <a href="https://github.com/F1nnSBK" target="_blank">
@@ -52,7 +52,7 @@ Currently exploring Manifold Learning to preserve structural integrity in embedd
 
 ### 🤖 Brain Layer  
 - **ML/RL:** Contextual Multi-Armed Bandits, Bayesian Estimation (MCMC)
-- **Architecture:** Manifold Learning, Matryoshka Embeddings, Neural ODEs  
+- **Architecture:** Manifold Learning, Matryoshka Embeddings 
   
 
 ### 🌐 Interface Layer   
@@ -64,7 +64,6 @@ Currently exploring Manifold Learning to preserve structural integrity in embedd
 
 ### 🚀 Active Projects
 - **Project KAIROS:** High-performance recommendation framework solving the cold-start problem via Julia-native inference.
-- **Phronesis Hub:** Next-gen knowledge scaling platform for applied mathematical engineering and peer-collaboration.
 
 ### 🎯 Trajectory
 - **Current:** Data Science & AI @ **DHBW Ravensburg**
