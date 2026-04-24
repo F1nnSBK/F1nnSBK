@@ -24,15 +24,3 @@ Ich bin Dualer Student im Bereich **Data Science & KI an der DHBW Ravensburg**. 
 * **Sprachen:** Python, R, Julia, TypeScript, SQL
 * **Frameworks & Libraries:** FastAPI, PyTorch, TensorFlow, Nuxt.js, Vue.js, Tailwind CSS
 * **Infrastruktur & Tools:** Docker, PostgreSQL, MongoDB, Redis, Linux, Git, Google Cloud (GCP)
-
-### 📊 GitHub Stats
-
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=F1nnSBK&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1nnSBK&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
-
-</td></tr></table>
