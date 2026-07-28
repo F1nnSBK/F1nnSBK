@@ -1,13 +1,7 @@
 # Hi, ich bin Finn 👋
 
-<a href="https://github.com/F1nnSBK" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
 <a href="https://linkedin.com/in/finn-hrts" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="https://www.kaggle.com/fnnnnnn" target="_blank">
-<img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" />
 </a>
 
 Ich bin Dualer Student im Bereich **Data Science & KI an der DHBW Ravensburg**. Mein Fokus liegt darauf, die Lücke zwischen Datenanalyse und funktionierender Software zu schließen. Ich habe Spaß daran, die komplette Pipeline zu bauen – vom Training der Machine-Learning-Modelle bis hin zu den APIs und Frontends, die sie nutzbar machen.
