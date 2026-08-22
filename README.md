@@ -1,7 +1,7 @@
 # Finn Hertsch
 
 <a href="https://linkedin.com/in/finn-hrts" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank" />
 </a>
 
 I am an undergraduate student in Data Science & AI at DHBW Ravensburg, working on low-level systems, in-memory vector storage, and applied ML pipelines.
