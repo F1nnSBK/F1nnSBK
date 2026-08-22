@@ -15,7 +15,7 @@ I am an undergraduate student in Data Science & AI at DHBW Ravensburg, working o
 ### Selected Projects
 
 * **Pithos:** In-memory vector database designed for high-throughput embedding search across large-scale image collections (Java 25, FFM API, GraalVM Native Image).
-* **Kairos:** Numerically stable LinUCB implementation maintaining positive definiteness under cold-start conditions *(Single-author paper, accepted at SKILL / INFORMATIK 2026)*.
+* **Kairos:** Numerically stable LinUCB implementation maintaining positive definiteness under cold-start conditions *(Single-author paper, accepted at SKILL 2026)*.
 * **Lunar Pit Detection:** Fine-tuning vision representations (DINOv3, LoRA, Dimensionality Reduction with Implicit View Ensembles) for terrain analysis on high-resolution lunar imagery.
 
 ### Languages & Tech
