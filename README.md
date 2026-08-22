@@ -1,20 +1,24 @@
-# Hi, ich bin Finn 👋
+# Finn Hertsch
 
 <a href="https://linkedin.com/in/finn-hrts" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 
-Ich bin Dualer Student im Bereich **Data Science & KI an der DHBW Ravensburg**. Mein Fokus liegt darauf, die Lücke zwischen Datenanalyse und funktionierender Software zu schließen. Ich habe Spaß daran, die komplette Pipeline zu bauen – vom Training der Machine-Learning-Modelle bis hin zu den APIs und Frontends, die sie nutzbar machen.
+I am an undergraduate student in Data Science & AI at DHBW Ravensburg, working on low-level systems, in-memory vector storage, and applied ML pipelines. Currently building data engines and algorithms with the Moonetics Research Group.
 
-### 🛠️ Was ich mache
+### Focus & Work
 
-* **Machine Learning & Data:** Datenanalyse, statistische Modellierung und RL-Algorithmen (Python, R, Julia).
-* **Backend & APIs:** Entwicklung von schnellen und skalierbaren Microservices (FastAPI, Julia).
-* **Frontend:** Bau von sauberen, interaktiven User Interfaces (Nuxt, Vue 3, Tailwind CSS).
-* **Aktueller Fokus:** Industrielles Cloud-Monitoring und Echtzeit-Datenverarbeitung.
+* **Systems & Storage:** Off-heap memory architectures (`Java 25 FFM`, POSIX `mmap`), GraalVM AOT native compilation, and zero-copy data structures.
+* **Large-Scale Retrieval:** Indexing planetary sensor datasets (LROC NAC) using extreme quantization (1-bit / 2-bit tiering) and self-supervised vision models.
+* **Online Learning & Bandits:** Contextual bandits with numerically stable updates (Cholesky rank-1 updates on ill-conditioned covariance matrices).
 
-### 💻 Tech Stack
+### Selected Projects
 
-* **Sprachen:** Python, R, Julia, TypeScript, SQL
-* **Frameworks & Libraries:** FastAPI, PyTorch, TensorFlow, Nuxt.js, Vue.js, Tailwind CSS
-* **Infrastruktur & Tools:** Docker, PostgreSQL, MongoDB, Redis, Linux, Git, Google Cloud (GCP)
+* **Pithos:** In-memory vector database designed for high-throughput embedding search across large-scale image collections (Java 25, FFM API, GraalVM Native Image).
+* **Kairos:** Numerically stable LinUCB implementation maintaining positive definiteness under cold-start conditions *(Single-author paper, accepted at SKILL / INFORMATIK 2026)*.
+* **Lunar Pit Detection:** Fine-tuning vision representations (DINOv3, LoRA, Implicit View Ensembles) for terrain analysis on high-resolution lunar imagery.
+
+### Languages & Tech
+
+* **Languages:** Java (FFM API, GraalVM Native), Julia, Python, SQL
+* **Core Stack:** PyTorch, SIMD Bit-Slicing, Off-Heap Memory Layouts, Docker, Linux
